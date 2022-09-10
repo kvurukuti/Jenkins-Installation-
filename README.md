@@ -19,7 +19,7 @@
 9. sudo systemctl status jenkins
 
 
-Jenkins-Installation in Ubuntu Linux Machine:
+# Jenkins-Installation in Ubuntu Linux Machine:
 
 1. sudo apt update
 
@@ -40,6 +40,10 @@ Jenkins-Installation in Ubuntu Linux Machine:
 9. sudo systemctl start jenkins
 
 10. sudo systemctl status jenkins
+
+
+
+Thank you,
 
 
 
